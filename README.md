@@ -25,21 +25,3 @@ These examples are based on the **The Complete Python/PostgreSQL Course 2.0**, a
 
 ---
 
-## 📂 Project Structure
-
-.
-├── example_connect/
-│ └── connect.py
-├── example_crud/
-│ ├── create.py
-│ ├── read.py
-│ ├── update.py
-│ └── delete.py
-├── example_transactions/
-│ └── transactions.py
-├── requirements.txt
-└── README.md
-
-
-> *Note:* Adjust folder names to match your actual structure.
-
